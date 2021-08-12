@@ -7,7 +7,7 @@
              "romtype": "UNOFFICIAL",
              "size": "1288490188",
              "url": "https://sourceforge.net/projects/dotosx3/files/dot11/dot_x3/dotOS-R-v5.1.3-x3-UNOFFICIAL-20210812-1531.zip/download",
-             "version": "v5.1.3.1",
+             "version": "v5.1.3",
              "changelog": [
                  {
                      "miscTitle": "Hot Fix",
