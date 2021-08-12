@@ -4,7 +4,7 @@
             "datetime": "1628858765",
             "filename": "dotOS-R-v5.1.3-x3-UNOFFICIAL-20210812-0735.zip",
             "id": "c2753f51bfe1350268e7f133be4f195e",
-            "romtype": "UNOFFICIAL",
+            "romtype": "OFFICIAL",
             "size": "716843146",
             "url": "https://downloads.droidontime.com/dot11/oneplus3/vanilla/dotOS-R-v5.1.2-oneplus3-OFFICIAL-20210718-1116.zip",
             "version": "v5.1.4",
