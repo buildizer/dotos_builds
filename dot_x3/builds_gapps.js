@@ -11,13 +11,7 @@
              "changelog": [
                  {
                      "miscTitle": "Hot Fix",
-                     "miscSummary": "\u2022 Fix Wifi on Realme X3 Devices.",
-                     "settingsTitle": "Small layout fixes",
-                     "settingsSummary": "\u2022 Face Unlock improvements.",
-                     "securityTitle": "August Bulletin",
-                     "securitySummary": "\u2022 August Security Patch merged",
-                     "systemTitle": "Locksceen clock fixes",
-                    "systemSummary": "\u2022 Fixes for Lockscreen clock when qspanel is expanded"
+                     "miscSummary": "\u2022 Fix Wifi on Realme X3 Devices."
                  }
              ]
          }
