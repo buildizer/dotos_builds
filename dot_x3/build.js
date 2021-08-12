@@ -11,7 +11,7 @@
              "changelog": [
                  {
                      "miscTitle": "Hot Fix",
-                     "miscSummary": "\u2022 Fix Wifi on Realme X3 Devices.",
+                     "miscSummary": "\u2022 Fix Wifi on Realme X3 Devices."
                  }
              ]
          }
