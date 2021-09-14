@@ -12,8 +12,8 @@
                  {
                      "miscTitle": "New features",
                      "miscSummary": "\u2022 Added The MonetWannabe 2.2 \n\u2022 Added The new Settings dashboard Interface \n\u2022 Gaming Mode \n\u2022 The Battery Manager.",
-                     "settingsTitle": "New widgets",
-                     "settingsSummary": "\u2022 New Clock widgets.",
+                     "settingsTitle": "",
+                     "settingsSummary": "\u2022 New Clock widgets \n\u2022 New Customization app",
                      "securityTitle": "September Bulletin",
                      "securitySummary": "\u2022 September Security Patch merged",
                      "systemTitle": "",
