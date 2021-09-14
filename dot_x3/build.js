@@ -1,12 +1,12 @@
 {
      "response": [
          {
-             "datetime": "1631615664",
-             "filename": "dotOS-R-v5.2-x3-GAPPS-20210914-0845.zip",
-             "id": "20bcf247615056e6ea227aa49a95696e",
-             "romtype": "GAPPS",
-             "size": "1098297300",
-             "url": "https://sourceforge.net/projects/dotosx3/files/dot11/dot_x3/dotOS-R-v5.2-x3-GAPPS-20210914-0845.zip/download",
+             "datetime": "1631615729",
+             "filename": "dotOS-R-v5.2-x3-OFFICIAL-20210914-1037.zip",
+             "id": "718295d0bd2de30ff1d3dce5da8695ed",
+             "romtype": "OFFICIAL",
+             "size": "654915774",
+             "url": "https://sourceforge.net/projects/dotosx3/files/dot11/dot_x3/dotOS-R-v5.2-x3-OFFICIAL-20210914-1037.zip/download",
              "version": "v5.2",
              "changelog": [
                  {
