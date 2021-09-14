@@ -15,7 +15,9 @@
                      "settingsTitle": "New widgets",
                      "settingsSummary": "\u2022 New Clock widgets.",
                      "securityTitle": "September Bulletin",
-                     "securitySummary": "\u2022 September Security Patch merged"
+                     "securitySummary": "\u2022 September Security Patch merged",
+                     "systemTitle": "",
+                     "systemSummary": ""
                  }
              ]
          }
