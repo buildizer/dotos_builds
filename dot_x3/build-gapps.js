@@ -11,13 +11,13 @@
              "changelog": [
                  {
                      "miscTitle": "",
-                     "miscSummary": "Fix System File App Crashes",
+                     "miscSummary": "",
                      "settingsTitle": "",
                      "settingsSummary": "",
                      "securityTitle": "",
                      "securitySummary": "",
                      "systemTitle": "",
-                     "systemSummary": ""
+                     "systemSummary": "Fix System File App Crashes"
                  }
              ]
          }
