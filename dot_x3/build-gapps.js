@@ -11,7 +11,7 @@
              "changelog": [
                  {
                      "miscTitle": "",
-                     "miscSummary": "Fix system crashes",
+                     "miscSummary": "Fix system crashes \n\u2022 Add more space in partion size to install gapps",
                      "settingsTitle": "",
                      "settingsSummary": "",
                      "securityTitle": "September Bulletin",
