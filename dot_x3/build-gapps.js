@@ -5,7 +5,7 @@
              "filename": "dotOS-R-v5.2.1-x3-GAPPS-20210915-2306.zip",
              "id": "9672499ad1aea9a655ff220d221bc89e",
              "romtype": "GAPPS",
-             "size": "1098297300",
+             "size": "1118199056",
              "url": "https://sourceforge.net/projects/dotosx3/files/dot11/dot_x3/dotOS-R-v5.2.1-x3-GAPPS-20210915-2306.zip/download",
              "version": "v5.2.1",
              "changelog": [
