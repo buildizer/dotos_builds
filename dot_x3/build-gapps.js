@@ -10,9 +10,9 @@
       url: "https://sourceforge.net/projects/dotosx3/files/dot11/dot_x3/dotOS-R-v5.2.1-x3-GAPPS-20210915-2306.zip/download",
       requireCleanFlash: false,
       images: null,
-      hash: "66f0e8bc8d9b64f90ff995de7b5ebc7b",
-      size: 1118199056,
-      version: "v5.2.1",
+      hash: "60eb7ce05fad6024a4401626ea7a922a",
+      size: 1118204235,
+      version: "v5.2.0.1",
       romChangelog: [
         {
           miscTitle: "",
