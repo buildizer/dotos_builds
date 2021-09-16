@@ -1,5 +1,5 @@
 {
-  codename: "dot_x3",
+  codename: "x3",
   deviceName: "RealmeX3 / RealmeX3 SupeZoom",
   brandName: "Realme",
   releases: [
