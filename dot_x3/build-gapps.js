@@ -13,7 +13,7 @@
        images: null,
        hash: "43ed60c118d9c8e0582679d699b27d1f",
        size: 1118127940,
-       version: "v5.2.0.1"
+       version: "v5.2.0.2"
      }
    ]
  }
