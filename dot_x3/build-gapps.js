@@ -13,7 +13,7 @@
       hash: "66f0e8bc8d9b64f90ff995de7b5ebc7b",
       size: 1118199056,
       version: "v5.2.1",
-      changelog: [
+      romChangelog: [
         {
           miscTitle: "",
           miscSummary: "Fix system crashes \n\u2022 Add more space in partion size to install gapps",
