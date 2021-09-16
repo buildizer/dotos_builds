@@ -6,8 +6,8 @@
     {
       type: "gapps",
       generatedAt: 1631749182,
-      fileName: "dotOS-R-v5.2.1-x3-GAPPS-20210915-2306.zip",
-      url: "https://sourceforge.net/projects/dotosx3/files/dot11/dot_x3/dotOS-R-v5.2.1-x3-GAPPS-20210915-2306.zip/download",
+      fileName: "dotOS-R-v5.2.0.1-x3-GAPPS-20210916-1057.zip",
+      url: "https://sourceforge.net/projects/dotosx3/files/dot11/dot_x3/dotOS-R-v5.2.0.1-x3-GAPPS-20210916-1057.zip/download",
       requireCleanFlash: false,
       images: null,
       hash: "60eb7ce05fad6024a4401626ea7a922a",
