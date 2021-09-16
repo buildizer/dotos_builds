@@ -17,6 +17,9 @@
 #  ]
 #}
 {
+  codename: "dot_x3",
+  deviceName: "RealmeX3 / RealmeX3 SupeZoom",
+  brandName: "Realme",
   "response":[
     {
       "datetime":1631796700,
