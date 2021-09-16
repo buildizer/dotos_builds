@@ -20,7 +20,7 @@
   codename: "dot_x3",
   deviceName: "RealmeX3 / RealmeX3 SupeZoom",
   brandName: "Realme",
-  "response":[
+  releases:[
     {
       generatedAt:1631796700,
       filename:"dotOS-R-v5.2.0.1-x3-GAPPS-20210916-1251.zip",
