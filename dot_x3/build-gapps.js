@@ -1,6 +1,6 @@
 {
   codename: "x3",
-  deviceName: "RealmeX3 / RealmeX3 SupeZoom",
+  deviceName: "RealmeX3",
   brandName: "Realme",
   releases: [
     {
